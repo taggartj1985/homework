@@ -1,1 +1,3 @@
 2nd edit
+
+cant hide my hidden files with .getignore need to read up more
